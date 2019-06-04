@@ -1,5 +1,12 @@
-# devrelcon-documentation
-This contains some documentation examples I made for my DevRelCon talk.
+# How to Lose a Dev In 3 Ways
+This project contains a few code snippets that I created for a talk at DevRelCon SF 2019. The purpose is to demonstrate best practices in documentation. The audience for this talk is anyone who creates external documentation for software products. Please note: Most of the code below doesn't actually do anything.
+
+Who should use this documentation?
+1.  Anyone who wants to learn more about writing docs that are accessible and inclusive to new developers.
+2.  Anyone who is new to using documentation and wants some insight on how to navigate it.
+
+How to use this documentation?
+* Think of this documentation like a glossary or a how-to guide. 
 
 ## QuickStart
 
