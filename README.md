@@ -20,3 +20,14 @@ Add the following code to `index.js`:
 const packageName = require('package-name');
 
 ```
+
+## Gif
+
+Enter the following commands in your terminal to see:
+1. If you have nvm installed
+2. If so, which versions of node you have installed
+
+```sh
+$ nvm --version
+$ nvm ls
+```
