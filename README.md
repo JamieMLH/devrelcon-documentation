@@ -42,10 +42,10 @@ Enter the following commands in your terminal to see:
 
 ```sh
 $ nvm --version
-       _0.31_
+    0.31
 $ nvm ls
-       _10.12_
-       _8.2_
+    10.12
+    8.2
 ```
 
-If there is no output when you run `nvm --version`, you need to install it. Check out instructions for Mac, Linux, and PC. 
+If there is no output when you run `nvm --version`, you need to install it. Check out instructions for [Mac](https://medium.com/@isaacjoe/best-way-to-install-and-use-nvm-on-mac-e3a3f6bc494d), [Linux](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04), and [PC](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04).
