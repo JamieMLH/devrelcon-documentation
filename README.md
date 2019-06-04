@@ -32,7 +32,9 @@ const packageName = require('package-name');
 
 ```
 
-## Gif
+## Install NVM
+
+NVM stands for node version manager. When you work on multiple projects, they might require different versions of node.
 
 Enter the following commands in your terminal to see:
 1. If you have nvm installed
@@ -40,8 +42,10 @@ Enter the following commands in your terminal to see:
 
 ```sh
 $ nvm --version
-  // 0.31
+       _0.31_
 $ nvm ls
- // 10.12
- // 8.2
+       _10.12_
+       _8.2_
 ```
+
+If there is no output when you run `nvm --version`, you need to install it. Check out instructions for Mac, Linux, and PC. 
