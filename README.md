@@ -4,7 +4,8 @@ This contains some documentation examples I made for my DevRelCon talk.
 ## QuickStart
 
 In your command line, (for example, Terminal on a Mac or PowerShell on a PC), enter the following command.
-Note: Don't copy the dollar sign :)
+
+**Note:** Don't copy the dollar sign :)
 
 ```sh
 $ npm install fake-quickstart
