@@ -40,5 +40,8 @@ Enter the following commands in your terminal to see:
 
 ```sh
 $ nvm --version
+  // 0.31
 $ nvm ls
+ // 10.12
+ // 8.2
 ```
