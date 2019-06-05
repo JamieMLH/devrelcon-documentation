@@ -37,12 +37,15 @@ const packageName = require('package-name');
 Here are some conventions you might see when using this documentation:
 
 `$ npm run start`
+
 The `$` means you should run the command in a terminal or shell. Do not copy the dollar sign.
 
 `api/<your region here>/path/to/resource`
+
 Any time you see angle brackets `<>`, replace them with your personal credentials. Do not include the brackets `<>`.
 
 Example:
+
 `api/us-west/path/to/resource`
 
 `> ` denotes the interactive node repl. Access it by typing `node` in your command line. Exit it by typing `.exit`.
