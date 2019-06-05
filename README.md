@@ -89,4 +89,35 @@ npm run <script name>
 ## Prerequisites
 
 To run this quickstart, you need Docker, Node 10.0.0 or later, and Webpack or Gulp.
-Make sure you have the right Gulp location in your path. 
+Make sure you have the right Gulp location in your path.
+
+## Instructions
+
+1. Install Docker
+2. Install Ngrok
+
+## MLH Localhost API Tutorial
+
+Use this tutorial to learn the MLH Localhost API.
+
+1. Add the code below to a file called `localhost.js`.
+
+```javascript
+const apiKey = '<your key here>'
+const localhostApi = require('mlh-localhost');
+
+// ...
+
+const apiCall = () => {
+  request(options, (error, response, body) => {
+    if (error) throw new Error(error);
+    data = JSON.parse(body)
+    console.log(data);
+  });
+}
+```
+
+2. In your terminal, run the following command:
+```
+node localhost.js
+```
