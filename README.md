@@ -91,10 +91,14 @@ npm run <script name>
 To run this quickstart, you need Docker, Node 10.0.0 or later, and Webpack or Gulp.
 Make sure you have the right Gulp location in your path.
 
-## Instructions
+## How To Access Your Virtual Machine
 
-1. Install Docker
-2. Install Ngrok
+1. Find the IP address of your virtual machine.
+2. Open your terminal and enter the following command:
+
+```
+ssh root@<your.ip.address>
+```
 
 ## MLH Localhost API Tutorial
 
