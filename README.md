@@ -85,3 +85,8 @@ app.fakeFunction(callback, () => console.log('You did it!'));
 ```
 npm run <script name>
 ```
+
+## Prerequisites
+
+To run this quickstart, you need Docker, Node 10.0.0 or later, and Webpack or Gulp.
+Make sure you have the right Gulp location in your path. 
