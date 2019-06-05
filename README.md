@@ -133,6 +133,7 @@ You did it!
 1. Enter the following commands in your terminal:
 
 ```
-which node
+pwd
+ls -a
 open <file name>
 ```
