@@ -127,3 +127,12 @@ node localhost.js
 ```
 
 You did it!
+
+## Instructions
+
+1. Enter the following commands in your terminal:
+
+```
+which node
+open <file name>
+```
