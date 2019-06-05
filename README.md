@@ -67,3 +67,21 @@ $ nvm ls
 ```
 
 If there is no output when you run `nvm --version`, you need to install it. Check out instructions for [Mac](https://medium.com/@isaacjoe/best-way-to-install-and-use-nvm-on-mac-e3a3f6bc494d), [Linux](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04), and [PC](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04).
+
+
+## How To Use This Library
+
+```
+npm install fake-package
+```
+Create a script with the following:
+```
+const fakePackage = require('fake-package');
+const app = fakePackage();
+
+app.fakeFunction(callback, () => console.log('You did it!'));
+```
+
+```
+npm run <script name>
+```
